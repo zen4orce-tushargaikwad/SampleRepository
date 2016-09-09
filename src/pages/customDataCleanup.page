@@ -1,0 +1,6 @@
+<apex:page standardStylesheets="false" showHeader="false" sidebar="false">
+     <div>
+        <font color ="red">Custom Objects</font>
+     	<c:CustomDataCleanUp ></c:CustomDataCleanUp>
+     </div>
+</apex:page>

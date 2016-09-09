@@ -1,0 +1,3 @@
+<apex:page showHeader="false" sidebar="false">
+    <c:CleanUpStandardData ></c:CleanUpStandardData>
+</apex:page>

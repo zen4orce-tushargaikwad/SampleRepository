@@ -1,0 +1,4 @@
+<apex:page standardStylesheets="false" showHeader="false" sidebar="false"> 
+    <c:CleanUpCustonData ></c:CleanUpCustonData>
+    <!--<c:claencustom></c:claencustom>-->
+</apex:page>

@@ -1,0 +1,8 @@
+<apex:page standardStylesheets="false" showHeader="false" sidebar="false"> 
+    <form>
+    	<div>
+            <font color ="red">Standard Objects</font>
+        	<c:StandardDataCleanUp ></c:StandardDataCleanUp>
+        </div>
+	</form> 
+</apex:page>
